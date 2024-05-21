@@ -1,0 +1,11 @@
+$bg: rgb(16,16,16);
+
+.banner{
+    height: 400px;
+    background-color: $bg;
+    border: 1px solid green;
+}
+
+.home > h2{
+    color: red;
+}
